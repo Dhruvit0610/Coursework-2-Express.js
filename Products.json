@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "63d66cc60df8ebc7c3172aaf"
+  },
+  "id": 5001,
+  "lessons": 1,
+  "subject": "Math",
+  "location": "London",
+  "price": "£200",
+  "img": "images/math.png",
+  "spaces": 8
+},{
+  "_id": {
+    "$oid": "63d66cf40df8ebc7c3172ab1"
+  },
+  "id": 5002,
+  "lessons": 2,
+  "subject": "Drawing",
+  "location": "Canterbury",
+  "price": "£150",
+  "img": "images/drawing.jfif",
+  "spaces": 10
+},{
+  "_id": {
+    "$oid": "63d66d0b0df8ebc7c3172ab3"
+  },
+  "id": 5003,
+  "lessons": 3,
+  "subject": "English",
+  "location": "Bradford",
+  "price": "£190",
+  "img": "images/english.jfif",
+  "spaces": 5
+},{
+  "_id": {
+    "$oid": "63d66d270df8ebc7c3172ab5"
+  },
+  "id": 5004,
+  "lessons": 4,
+  "subject": "Computer",
+  "location": "Carlisle",
+  "price": "£170",
+  "img": "images/computer.png",
+  "spaces": 9
+},{
+  "_id": {
+    "$oid": "63d66ebf0df8ebc7c3172ab7"
+  },
+  "id": 5005,
+  "lessons": 5,
+  "subject": "Chemistry",
+  "location": "Cambridge",
+  "price": "£200",
+  "img": "images/chemistry.jfif",
+  "spaces": 10
+},{
+  "_id": {
+    "$oid": "63d66ed30df8ebc7c3172ab9"
+  },
+  "id": 5006,
+  "lessons": 6,
+  "subject": "Physics",
+  "location": "Birmingham",
+  "price": "£150",
+  "img": "images/physics.jfif",
+  "spaces": 15
+},{
+  "_id": {
+    "$oid": "63d66ee60df8ebc7c3172abb"
+  },
+  "id": 5007,
+  "lessons": 7,
+  "subject": "Aptitude",
+  "location": "Bath",
+  "price": "£210",
+  "img": "images/aptitude.png",
+  "spaces": 7
+},{
+  "_id": {
+    "$oid": "63d66ef80df8ebc7c3172abd"
+  },
+  "id": 5008,
+  "lessons": 8,
+  "subject": "Music",
+  "location": "Manchester",
+  "price": "£100",
+  "img": "images/music.png",
+  "spaces": 10
+},{
+  "_id": {
+    "$oid": "63d66f070df8ebc7c3172abf"
+  },
+  "id": 5009,
+  "lessons": 9,
+  "subject": "Dance",
+  "location": "London",
+  "price": "£110",
+  "img": "images/dance.jfif",
+  "spaces": 8
+},{
+  "_id": {
+    "$oid": "63d66f1a0df8ebc7c3172ac1"
+  },
+  "id": 5010,
+  "lessons": 10,
+  "subject": "Sports",
+  "location": "Swindon",
+  "price": "£260",
+  "img": "images/sports.jfif",
+  "spaces": 9
+}]
