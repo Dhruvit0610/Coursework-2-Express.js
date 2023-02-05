@@ -18,6 +18,6 @@ All of my code links with aws are here
 
 #[AWS Express.js App] the link to the AWS route that returns all the lessons.
 
-	 http://lessonappcw2-env.eba-fh3ih8gj.eu-west-2.elasticbeanstalk.com/Products
+	https://lessonappcw2-env.eba-fh3ih8gj.eu-west-2.elasticbeanstalk.com/Products/
 
 
